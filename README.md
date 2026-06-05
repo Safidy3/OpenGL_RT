@@ -1,2 +1,5 @@
 # OpenGL_RT
-Basic 3D engine
+
+# Resources
+** https://learnopengl.com/Getting-started
+** https://www.opengl-tutorial.org/beginners-tutorials
